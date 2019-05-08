@@ -1,0 +1,9 @@
+{
+  "Name": "SSMAPI",
+  "Author": "SgtPickles aka GameMX",
+  "Version": "1.0.0",
+  "Description": "Test to apply Shaders to SMAPI",
+  "UniqueID": "SgtPickles.SSMAPI",
+  "EntryDll": "SSMAPI.dll",
+  "MinimumApiVersion": "2.9",
+}
